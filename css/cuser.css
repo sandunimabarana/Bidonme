@@ -1,0 +1,10 @@
+body {
+      position: relative;
+  }
+  #scrl {
+      top: 70px;
+      position: fixed;
+  }
+  div.col-8 div {
+      height: 500px;
+  }
